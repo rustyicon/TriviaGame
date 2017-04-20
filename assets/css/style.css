@@ -1,0 +1,29 @@
+body {
+	margin: 15px;
+	background-image:("../images/Ghilbi_Wallpaper.jpg");
+	
+}
+button {
+	position: absolute;
+  	top: 40%;
+  	left: 35%;
+	color: #f9ba18;
+    padding: 45px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	
+}
+#main-container{
+	position: absolute;
+  	top: 10%;
+  	left:15%;
+  	width: 900px;
+    height: 500px;
+    border: 1px solid blue;
+    box-sizing: border-box;
+	background-color: #70bae5;
+	opacity: .9;
+	box-shadow: 10px 10px 5px #888888;
+}
